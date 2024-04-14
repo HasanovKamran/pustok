@@ -10691,11 +10691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hesenov Kamran\\Desktop\\Pustak-project\\Pustak\\Pustak.csproj",
+      "projectUniqueName": "C:\\Users\\Hesenov Kamran\\Desktop\\PUSTOK-BACKEND-ENDPROJECT\\Pustak\\Pustak.csproj",
       "projectName": "Pustak",
-      "projectPath": "C:\\Users\\Hesenov Kamran\\Desktop\\Pustak-project\\Pustak\\Pustak.csproj",
+      "projectPath": "C:\\Users\\Hesenov Kamran\\Desktop\\PUSTOK-BACKEND-ENDPROJECT\\Pustak\\Pustak.csproj",
       "packagesPath": "C:\\Users\\Hesenov Kamran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hesenov Kamran\\Desktop\\Pustak-project\\Pustak\\obj\\",
+      "outputPath": "C:\\Users\\Hesenov Kamran\\Desktop\\PUSTOK-BACKEND-ENDPROJECT\\Pustak\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hesenov Kamran\\AppData\\Roaming\\NuGet\\NuGet.Config",

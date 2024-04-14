@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x3yum3q7mh4G76hDRY0eOTLECWpOxYNAB3O6ESd892M/yHEpCqfqrBoD5/F1wpWV7P+MFNfrTAoTehE2EJA3Sw==",
+  "dgSpecHash": "E5CD3MAJr42tXrUqQv7vdqxwJdYllDpLGU9OIqK49Q7EX6XK0DTyymWnqMzs9OggkgReCXaOHFzYwM3AoOR7dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hesenov Kamran\\Desktop\\Pustak-project\\Pustak\\Pustak.csproj",
+  "projectFilePath": "C:\\Users\\Hesenov Kamran\\Desktop\\PUSTOK-BACKEND-ENDPROJECT\\Pustak\\Pustak.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hesenov Kamran\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Hesenov Kamran\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
